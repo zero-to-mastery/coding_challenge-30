@@ -7,11 +7,11 @@ wn.bgcolor("black")
 wn.setup(width=800, height=600)
 wn.tracer(0)
 
-# Score
+
 score_a = 0
 score_b = 0
 
-# Paddle A
+
 paddle_a = turtle.Turtle()
 paddle_a.speed(10)
 paddle_a.shape("square")
@@ -20,7 +20,7 @@ paddle_a.shapesize(stretch_wid=5,stretch_len=1)
 paddle_a.penup()
 paddle_a.goto(-350, 0)
 
-# Paddle B
+
 paddle_b = turtle.Turtle()
 paddle_b.speed(10)
 paddle_b.shape("square")
@@ -29,7 +29,7 @@ paddle_b.shapesize(stretch_wid=5,stretch_len=1)
 paddle_b.penup()
 paddle_b.goto(350, 0)
 
-# Ball
+
 ball = turtle.Turtle()
 ball.speed(0)
 ball.shape("circle")
@@ -39,7 +39,7 @@ ball.goto(0, 0)
 ball.dx = 0.65
 ball.dy = 0.65
 
-# Pen
+
 pen = turtle.Turtle()
 pen.speed(0)
 pen.shape("square")
@@ -49,7 +49,7 @@ pen.hideturtle()
 pen.goto(0, 260)
 pen.write("PLAYER-1:   0                   PLAYER-2:   0", align="center", font=("Comic Sans MS", 24, "normal"))
 
-# Functions
+
 def paddle_a_up():
     y = paddle_a.ycor()
     y += 30
@@ -70,35 +70,35 @@ def paddle_b_down():
     y -= 30
     paddle_b.sety(y)
 
-# Keyboard bindings
+
 wn.listen()
 wn.onkeypress(paddle_a_up, "w")
 wn.onkeypress(paddle_a_down, "s")
 wn.onkeypress(paddle_b_up, "Up")
 wn.onkeypress(paddle_b_down, "Down")
 
-# Main game loop
+
 while True:
     wn.update()
     
-    # Move the ball
+    
     ball.setx(ball.xcor() + ball.dx)
     ball.sety(ball.ycor() + ball.dy)
 
-    # Border checking
+    
 
-    # Top and bottom
+    
     if ball.ycor() > 290:
         ball.sety(290)
         ball.dy *= -1
-        winsound.PlaySound("C:/Users/jeet2/Desktop/bounce.wav", winsound.SND_ASYNC)
+        winsound.PlaySound("bounce.wav", winsound.SND_ASYNC)
     
     elif ball.ycor() < -290:
         ball.sety(-290)
         ball.dy *= -1
-        winsound.PlaySound("C:/Users/jeet2/Desktop/bounce.wav", winsound.SND_ASYNC)
+        winsound.PlaySound("bounce.wav", winsound.SND_ASYNC)
 
-    # Left and right
+    
     if ball.xcor() > 350:
         score_a += 1
         pen.clear()
@@ -113,11 +113,11 @@ while True:
         ball.goto(0, 0)
         ball.dx *= -1
 
-    # Paddle and ball collisions
+    
     if ball.xcor() < -340 and ball.ycor() < paddle_a.ycor() + 50 and ball.ycor() > paddle_a.ycor() - 50:
         ball.dx *= -1 
-        winsound.PlaySound("C:/Users/jeet2/Desktop/bounce.wav", winsound.SND_ASYNC)
+        winsound.PlaySound("bounce.wav", winsound.SND_ASYNC)
     
     elif ball.xcor() > 340 and ball.ycor() < paddle_b.ycor() + 50 and ball.ycor() > paddle_b.ycor() - 50:
         ball.dx *= -1
-        winsound.PlaySound("C:/Users/jeet2/Desktop/bounce.wav", winsound.SND_ASYNC)
+        winsound.PlaySound("bounce.wav", winsound.SND_ASYNC)
