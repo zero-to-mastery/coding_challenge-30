@@ -19,6 +19,105 @@ Finally, make the game your own and customize it to your liking so we can showca
 ## Submissions:
 At the end of the challenge, we will post everyone's projects down below so you can see what others have done. In order to see your submission below, make sure you read the next section for the submission guidelines (In *The Rules Are* section)!
 
+
+jackla#6104
+Github Repo
+https://github.com/HoangQuyla/coding_challenge
+--------
+
+Anirudh Panda#9601
+Github Repo
+https://github.com/AnirudhPanda/PyWorks/tree/master/PongGame
+--------  
+  
+ashutoshkrris#8674  
+Other Link  
+http://www.srty.tk/pong-game  
+  
+  
+tuneer#1094  
+Github Repo  
+https://github.com/tun-eer/ping-pong/tree/master/ping%20pong  
+--------  
+  
+TANMAY PHADNIS#2654  
+Github Repo  
+https://github.com/TanmayPhadnis-rgb/coding_challenge-30  
+​--------  
+​  
+TANMAY PHADNIS#2654  
+Github Repo  
+https://github.com/TanmayPhadnis-rgb/coding_challenge-30  
+--------  
+  
+Neha#2024  
+Github Repo  
+https://github.com/Neha045/Pong  
+--------  
+  
+mayur72#3407  
+Github Repo  
+https://github.com/Mayur-724/Pong-game.git  
+--------  
+  
+mayur72#3407  
+Github Repo  
+https://github.com/Mayur-724/Pong-game.git  
+​--------  
+​  
+gmorana#0463  
+Github Pages  
+https://gmorana.github.io/zulycandledesigns/  
+​--------  
+​  
+sneha#5738  
+Github Repo  
+https://github.com/snehageorge25/PongPongPong  
+​--------  
+  
+  
+f0rSa#0136  
+Github Repo  
+https://github.com/f0rSaaa/PongGame  
+​--------  
+​  
+zjivkas#2941  
+Github Repo  
+https://github.com/zjivkas/ztm-udemy-coding-challenge8  
+Github Pages  
+https://zjivkas.github.io/ztm-udemy-coding-challenge8/  
+​--------  
+  
+StudHorse_76#5719  
+Github Repo  
+https://github.com/yiting76/ricarball  
+--------  
+  
+Rawshan#6460  
+Github Pages  
+https://mrawshan.github.io/adventure/  
+​--------  
+  
+JxxT#4185  
+Github Repo  
+https://github.com/JxxT/2-players-pong-game.git  
+​--------  
+​  
+sridarshan#4586  
+Github Repo  
+https://github.com/sridarshan-webjava/PingPong  
+​--------  
+​  
+Sean Manley#6276  
+Github Repo  
+https://github.com/manleystudios/Pong-Game  
+​--------  
+​  
+saurabh#6786  
+Github Repo  
+https://github.com/saurabh618/pong_game  
+​--------  
+​  
 ------
 
 ## The Rules Are:
