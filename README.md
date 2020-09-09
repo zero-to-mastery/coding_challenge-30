@@ -33,7 +33,7 @@ https://github.com/AnirudhPanda/PyWorks/tree/master/PongGame
 ashutoshkrris#8674  
 Other Link  
 http://www.srty.tk/pong-game  
-  
+--------  
   
 tuneer#1094  
 Github Repo  
@@ -65,11 +65,6 @@ Github Repo
 https://github.com/Mayur-724/Pong-game.git  
 --------  
   
-gmorana#0463  
-Github Pages  
-https://gmorana.github.io/zulycandledesigns/  
---------  
-  
 sneha#5738  
 Github Repo  
 https://github.com/snehageorge25/PongPongPong  
@@ -90,11 +85,6 @@ https://zjivkas.github.io/ztm-udemy-coding-challenge8/
 StudHorse_76#5719  
 Github Repo  
 https://github.com/yiting76/ricarball  
---------  
-  
-Rawshan#6460  
-Github Pages  
-https://mrawshan.github.io/adventure/  
 --------  
   
 JxxT#4185  
