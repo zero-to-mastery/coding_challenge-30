@@ -31,7 +31,7 @@ https://github.com/AnirudhPanda/PyWorks/tree/master/PongGame
 --------  
   
 ashutoshkrris#8674  
-Other Link  
+Github Repo  
 http://srty.me/pong-game  
 --------  
   
