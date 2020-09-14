@@ -31,8 +31,8 @@ https://github.com/AnirudhPanda/PyWorks/tree/master/PongGame
 --------  
   
 ashutoshkrris#8674  
-Other Link  
-http://www.srty.tk/pong-game  
+Github Repo  
+http://srty.me/pong-game  
 --------  
   
 tuneer#1094  
